@@ -1,6 +1,6 @@
 
 {
   "projects": {
-    "default": "'${{ secrets.PROJECT_ID }}'"
+    "default": '${{ secrets.PROJECT_ID }}'
   }
 }
