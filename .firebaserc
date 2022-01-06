@@ -1,6 +1,6 @@
 
 {
   "projects": {
-    "default": "${{ secrets.GKE_PROJECT }}"
+    "default": "${{ secrets.PROJECT_ID }}"
   }
 }
