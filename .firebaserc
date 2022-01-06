@@ -1,0 +1,6 @@
+
+{
+  "projects": {
+    "default": "${{ secrets.GKE_PROJECT }}"
+  }
+}
